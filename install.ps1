@@ -67,7 +67,7 @@ Write-Host "  ──────────────────────
 Write-Host ""
 
 & $python -m gdown `
-    --folder "https://drive.google.com/drive/folders/$FolderID" `
+    --folder "https://drive.google.com/drive/folders/1Jys6wp9pI5aHZqMf6bIH3BOycqSoojWA?usp=sharing" `
     --output  "$OutputDir" `
     --remaining-ok
 
